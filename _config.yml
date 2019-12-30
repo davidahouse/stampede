@@ -17,7 +17,7 @@ title: Stampede
 email: davidahouse@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The documentation site for Stampede, a continuous automation system.
-url: "http://www.stampedeci.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.stampedeci.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: davidahouse
 github_username: davidahouse
 
