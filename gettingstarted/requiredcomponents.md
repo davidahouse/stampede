@@ -15,7 +15,7 @@ There are many ways to install `node.js`, so go to the official site: [nodejs.or
 
 ### Redis
 
-An instance of `redis` needs to be running for the `stampede` components to use. You can run `redis` in many different ways, but 2 common methods are to use `docker`, or to use a cloud based redis such as [redislabs.com](https://redislabs.com). One you have an instance of `redis` running, you will need to know the IP address (or name) of the host, and the port that `redis` is running on (the default port is 6379). Optionally you might need a password, depending on the authentication method used to run the server.
+An instance of `redis` needs to be running for the `stampede` components to use. You can run `redis` in many different ways, but 2 common methods are to use `docker`, or to use a cloud based redis such as [redislabs.com](https://redislabs.com). Once you have an instance of `redis` running, you will need to know the IP address (or name) of the host, and the port that `redis` is running on (the default port is 6379). Optionally you might need a password, depending on the authentication method used to run the server.
 
 ## Installing Stampede Server
 
