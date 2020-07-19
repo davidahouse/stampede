@@ -1,3 +1,4 @@
 serve:
-  command: bundle exec jekyll serve
-  
+  commands:
+    - open http://localhost:4000
+    - bundle exec jekyll serve
