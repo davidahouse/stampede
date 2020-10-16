@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "BEP25W3FR3.com.davidahouse.Stampede" ],
+             "components": [
+               {
+                  "/": "/repositories/*",
+                  "comment": "Matches any URL whose path starts with /repositories/"
+               }
+             ]
+           }
+       ]
+   }
+}

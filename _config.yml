@@ -40,7 +40,10 @@ exclude:
   - .ubolt.yaml
   - .stampede.yaml
 
-  # prose.io config
+include:
+  - .well-known
+
+    # prose.io config
 prose:
   rooturl: "_posts"
   media: "img"
