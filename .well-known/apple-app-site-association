@@ -5,8 +5,7 @@
              "appIDs": [ "75VB98RCZH.com.davidahouse.Stampede" ],
              "components": [
                {
-                  "/": "/repositories/*",
-                  "comment": "Matches any URL whose path starts with /repositories/"
+                  "/": "/repositories/buildDetails"
                }
              ]
            }
