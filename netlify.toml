@@ -1,6 +1,4 @@
 [[headers]]
   for = "/.well-known/apple-app-site-association"
   [headers.values]
-    Cache-Control = "public, max-age=0"
     Content-Type = "application/json"
-    X-Content-Type-Options = "nosniff"
